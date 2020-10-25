@@ -1,0 +1,400 @@
+body{
+	
+	margin: 0;
+}
+.logo1 img{
+	width: 5%;
+	height: 10%;
+	margin-left:1%; 
+}
+.logo2 img {
+	width: 12%;
+	height: 10%;
+	margin-left: -2%;
+	margin-top: -6%; 
+}
+.Gambar hr{
+	margin-top: -5%;
+	border:0.5px solid #E9E9E9;
+}
+.Mengajar{
+	padding: 5px;
+	border:1px solid orange;
+	width: 10%;
+	text-align: center;
+	border-radius: 25px;
+	color:orange;
+	margin-left: 60%;
+	margin-top: -5%;
+}
+.beasiswa{
+	padding: 5px;
+	border:1px solid orange;
+	width: 10%;
+	text-align: center;
+	border-radius: 25px;
+	color:orange;
+	margin-left: 73%;
+	margin-top: -2%;
+}
+.Mengajar a{
+	text-decoration: none;
+	color:orange;
+	font-family: "poppins";
+	font-size: 12px;
+}
+.beasiswa a{
+	text-decoration: none;
+	color:orange;
+	font-family: "poppins";
+	font-size: 12px;
+}
+.tempat hr{
+	border:0.5px solid #E9E9E9;
+}
+.terdekat{
+	border-radius: 3px;
+	width: 4.5%;
+	padding: 3px;
+	background-color: #F5F5F5;
+	margin-left: 9%;
+	margin-top: -1.6%;
+	text-align: center;
+
+}
+.Ekonomis{
+	text-align: center;
+	width: 4.5%;
+	padding: 3px;
+	background-color: #F5F5F5;
+	margin-left:15.3%; 
+	margin-top: -1.7%;
+}
+.waktu{
+	width: 10%;
+	padding: 3px;
+	background-color: #F5F5F5;
+	margin-left:25%;
+	margin-left: 22%;
+	margin-top: -1.6%;
+	text-align: center;
+}
+.terbaik{
+	width: 4.5%;
+	padding: 3px;
+	background-color: #F5F5F5;
+	margin-left: 3%;
+	margin-top: 3%;
+	text-align: center;
+}
+.terbaik a{
+	text-decoration:none;
+	color: #ACACAC;
+}
+.waktu a{
+	text-decoration:none;
+	color: #ACACAC;
+}
+.Ekonomis a{
+	text-decoration:none;
+	color: #ACACAC;
+}
+.terdekat a{
+	text-decoration:none;
+	color: #ACACAC;
+}
+.kotak1{
+	width: 25%;
+	padding: 20px;
+	border-radius: 13px;
+	box-sizing: border-box;
+	border:none;
+	box-shadow: 0px 0px 20px 3px grey;
+}
+.Pencarian{
+	margin-left: 30%;
+}
+.kotak2{
+	width: 20%;
+	padding: 20px;
+	border-radius: 13px;
+	box-sizing: border-box;
+	border:none;
+	box-shadow: 0px 0px 20px 3px grey;
+	margin-left: 25px;
+}
+.kotak3{
+	width: 12%;
+	padding: 15px;
+	margin-left:15px; 
+	background-color: #EBA04B;
+	box-sizing: border-box;
+	border:none;
+	border-radius: 13px;
+	font-size: 25px;
+	font-family: sans-serif;
+	transform: translate(20px,5px);
+	color:white;
+}
+.p1 img{
+	width: 20%;
+	margin-left: 15%;
+	border-radius: 10px;
+}
+.harga{
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 12px;
+	margin-left: 15%;
+}
+.harga a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket{
+	margin-left:15%; 
+}
+.ket h4{
+	width: 25%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+}
+.harga2 {
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 11px;
+	margin-left: 40%;
+	margin-top: -29vw;
+}
+.harga2 a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket2{
+	margin-left:40%; 
+}
+.ket2 h4{
+	width: 31%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+}
+.p2 img{
+	position: relative;
+	width: 20%;
+	margin-left: 40%;
+	top: -29.2vw;
+	border-radius: 10px;
+}
+.harga3 {
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 11px;
+	margin-left: 65%;
+	margin-top: -30.8vw;
+}
+.harga3 a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket3{
+	margin-left:65%; 
+}
+.ket3 h4{
+	width: 40%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+	font-size: 14px;
+}
+.p3 img{
+	position: relative;
+	width: 20%;
+	height: 11.3vw;
+	margin-left: 65%;
+	border-radius: 10px;
+	top:-30.8vw;
+}
+.p4 img{
+	position: relative;
+	width: 20%;
+	margin-left: 15%;
+	border-radius: 10px;
+	top: -5vw;
+}
+.harga4 {
+	position: relative;
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 11px;
+	margin-left: 15%;
+	margin-top: -5vw;
+}
+.harga4 a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket4{
+	margin-left:15%; 
+}
+.ket4 h4{
+	width: 25%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+	font-size: 15px;
+}
+.harga5 {
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 11px;
+	margin-left: 40%;
+	margin-top: -24vw;
+}
+.harga5 a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket5{
+	margin-left:40%; 
+}
+.ket5 h4{
+	width: 30%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+	font-size: 14px;
+}
+.p5 img{
+	position: relative;
+	width: 20%;
+	height: 11.3vw;
+	margin-left: 40%;
+	border-radius: 10px;
+	top:-24vw;
+}
+.harga6 {
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 11px;
+	margin-left: 65%;
+	margin-top: -25.5vw;
+}
+.harga6 a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket6{
+	margin-left:65%; 
+}
+.ket6 h4{
+	width: 40%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+	font-size: 14px;
+}
+.p6 img{
+	position: relative;
+	height: 11.3vw;
+	width: 20%;
+	margin-left: 65%;
+	border-radius: 10px;
+	top: -25.5vw;
+
+}
+.p7 img{
+	width: 20%;
+	margin-left: 15%;
+	border-radius: 10px;
+}
+.harga8 {
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 11px;
+	margin-left: 40%;
+	margin-top: -27.5vw;
+}
+.harga8 a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket8{
+	margin-left:40%; 
+}
+.ket8 h4{
+	width: 30%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+	font-size: 14px;
+}
+.p8 img{
+	position: relative;
+	width: 20%;
+	margin-left: 40%;
+	border-radius: 10px;
+	top: -27.5vw;
+}
+.harga9 {
+	padding: 5px;
+	border:1px solid #E68619;
+	width: 15%;
+	text-align: center;
+	border-radius: 25px;
+	color:#E68619;
+	font-size: 11px;
+	margin-left: 65%;
+	margin-top: -28.5vw;
+}
+.harga9 a{
+	text-decoration: none;
+	color:#E68619;
+}
+.ket9{
+	margin-left:65%; 
+}
+.ket9 h4{
+	width: 40%;
+	color: grey;
+	font-family: "poppins";
+	font-weight: normal;
+	font-size: 14px;
+}
+.p9 img{
+	position: relative;
+	width: 20%;
+	height: 12.5vw;
+	margin-left: 65%;
+	border-radius: 10px;
+	top:-28.5vw;
+}

@@ -1,0 +1,139 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin:0;
+	padding: 0;
+	background-color: #F6F5F5;
+}
+#header{
+	height: 6vw;
+	background-color: #9ECFCC;
+}
+.satu img{
+	width: 5%;
+	margin-left: 4%;
+}
+.dua img{
+	width: 7%;
+	margin-left: 3%;
+	margin-top: -4%;
+}
+.profil img{
+	width:20%;
+}
+.profil h5{
+	color:#E68619;
+	margin-top: -4%;
+	margin-left: 3.5%;
+}
+.navigasi{
+	background-color: #E9E9E9;
+	margin-top: 34px;
+	width: 20%;
+	text-align: center;
+	color:#8F8F8F;
+}
+.detail{
+	margin-top: -1.3%;
+	height: 28.5vw;
+	width: 20%;
+	background-color: white;
+}
+.beranda a{
+	margin-left: 5%;
+	text-decoration: none;
+	font-family: "Rockwell";
+	font-weight: normal;
+}
+.Mengajar a{
+	margin-left: 5%;
+	text-decoration: none;
+	font-family: "Rockwell";
+	color:#8F8F8F;
+	font-weight: normal;
+}
+.Pesan a{
+	margin-left: 5%;
+	text-decoration: none;
+	font-family: "Rockwell";
+	color:#8F8F8F;
+	font-weight: normal;
+}
+.judul{
+	width: 24%;
+	height:12vw; 
+	margin-left: 22%;
+	margin-top: -40%;
+	background-color: white;
+	border-radius: 10px;
+}
+.atas{
+	background-color: #D87979;
+}
+.isi h3{
+	text-align: center;
+	font-weight: normal;
+}
+.input{
+	width: 80%;
+	height: 5vw;
+	text-align: center;
+	margin-left: 9%;
+	margin-top: -4%;
+	border:none;
+	box-shadow:0px 0px 10px 1px grey;
+}
+.judul1{
+	width: 40%;
+	margin-left: 50%;
+	height:12vw; 
+	margin-top: -12%;
+	background-color: white;
+	border-radius: 10px;
+
+}
+.input1{
+	width: 80%;
+	height: 5vw;
+	text-align: center;
+	margin-left: 9%;
+	margin-top: -3%;
+	border:none;
+	box-shadow:0px 0px 10px 1px grey;
+}
+.targetmu{
+	width: 24%;
+	height:12vw;
+	margin-left:22%;
+	margin-top: 2%;
+	background-color: white;
+	border-radius: 10px;
+}
+.Motivasi{
+	width: 40%;
+	height:12vw;
+	margin-left:50%;
+	margin-top: -12%;
+	background-color: white;
+	border-radius: 10px;
+}
+#footer{
+	margin-top: 10.8%;
+	background-color: #EFEFEF;
+	height: 61px;
+}
+.tiga img{
+	width: 3%;
+	margin-left:20%;
+}
+.empat img{
+	width: 6%;
+	margin-left: 22%;
+	margin-top: -5.5%;
+}
+#footer h6{ 
+	margin-left: 30%;
+	margin-top: -4%;
+	color:#707070;
+}
+

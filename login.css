@@ -1,0 +1,68 @@
+body{
+	background-image: url(tugastm.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.form2{
+	width: 40%;
+	margin-left: 30%;
+	margin-top:7%;
+	background-color: rgb(255,255,255,0.7);
+	text-align: center;
+	padding: 5px;
+	border-radius: 25px;
+}
+.form2 button a{
+	text-decoration: none;
+	color:white;
+}
+.kotak{
+	font-family:sans-serif;
+	font-size: 15px;
+	color: grey;
+}
+.kotak1{
+	width: 63%;
+	height: 40px;
+	border-radius: 25px;
+	background-color: #E68619;
+	border:none;
+	font-size:20px;
+	color:white;
+}
+.form2 h2{
+	color:#E68619;
+	font-family: sans-serif;
+}
+.form2 h4{
+	color: grey;
+}
+.kotak{
+	padding: 10px;
+	width: 60%;
+	border:none;
+	border-radius: 50px;
+}
+.facebook{
+	width: 62%;
+	height: 40px;
+	border:none;
+	background-color: #1976D2;
+	color:white;
+}
+.Google{
+	width: 62%;
+	height: 40px;
+	border:none;
+	background-color: #F14336;
+	color:white;
+}
+.logo1 img {
+	width: 180px;
+	transform: translate(-30px,-570px);
+}
+.logo2 img {
+	width: 60px;
+	transform: translate(25px,-480px);
+}

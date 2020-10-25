@@ -1,0 +1,299 @@
+body{
+	width: 100% 100%;
+	margin:0;
+}
+.tulisan{
+	color:grey;
+	font-size: 40px;
+	margin-top: -5%;
+	margin-left: 30%;
+}
+.kotak1{
+	width: 25%;
+	padding: 20px;
+	border-radius: 13px;
+	box-sizing: border-box;
+	border:none;
+	box-shadow: 0px 0px 20px 3px grey;
+}
+.Pencarian{
+	margin-left: 30%;
+}
+.Pencarian button a{
+	text-decoration: none;
+	color: white;
+}
+.kotak2{
+	width: 20%;
+	padding: 20px;
+	border-radius: 13px;
+	box-sizing: border-box;
+	border:none;
+	box-shadow: 0px 0px 20px 3px grey;
+	margin-left: 25px;
+}
+.kotak3{
+	width: 12%;
+	padding: 15px;
+	margin-left:15px; 
+	background-color: #EBA04B;
+	box-sizing: border-box;
+	border:none;
+	border-radius: 13px;
+	font-size: 25px;
+	font-family: sans-serif;
+	transform: translate(20px,5px);
+	color:white;
+}
+.logo1 img{
+	width: 5%;
+	height: 10%;
+	margin-left:1%; 
+}
+.logo2 img {
+	width: 12%;
+	height: 10%;
+	margin-left: -2%;
+	margin-top: -6%; 
+}
+.isi1{
+	position: relative;
+	width: 50%;
+	height: 500px;
+	background-color: #EBA04B;
+	padding: 13px;
+	color:white;
+	border-radius: 30px;
+	margin-left: 25%;
+	top: 20px;
+}
+.isi1 h1 {
+	text-align: center;
+	font-size: 50px;
+}
+.gambar1 img{
+	position: relative;
+	width: 5%;
+	margin-left: 6%;
+	margin-top: 3%;
+}
+.gambar1 h2{
+	position: relative;
+	font-size: 30px;
+	margin-left: 6%;
+}
+.gambar1 h4{
+	position: relative;
+	width: 30%;
+	font-size: 18px;
+	margin-left: 6%;
+}
+.gambar2 img{
+	position: relative;
+	bottom: 233px;
+	width: 5%;
+	margin-left: 37%;
+	margin-top: -5%;
+}
+.gambar2 h2{
+	position: relative;
+	margin-left: 37%;
+	font-size: 30px;
+	bottom: 235px;
+}
+.gambar2 h4{
+	width: 30%;
+	position: relative;
+	font-size: 18px;
+	margin-left: 37%;
+	bottom: 234px;
+}
+.gambar3 img{
+	position: relative;
+	width: 5%;
+	margin-left: 70%;
+	bottom: 498px;
+}
+.gambar3 h2{
+	position: relative;
+	margin-left: 70%;
+	font-size: 30px;
+	bottom: 498px;
+}
+.gambar3 h4{
+	width: 30%;
+	position: relative;
+	font-size: 18px;
+	margin-left:70%;
+	bottom: 540px;
+}
+.isi2{
+	position: relative;
+	width: 50%;
+	height: 400px;
+	margin-left: 25%;
+}
+.judul h1{
+	text-align: center;
+	color:grey;
+	font-size: 50px;
+}
+.bagian{	
+	width: 60%;
+	color:grey;
+}
+.isi3{
+	width: 50%;
+	height: 300px;
+	margin-left: 24%;
+	background-color: #EEEEEE;
+	padding: 25px;
+	border-radius: 25px;
+}
+.satu{
+	margin-left: 5%;
+}
+.dua{
+	position: relative;
+	margin-left: 30%;
+	bottom: 243px;
+}
+.tiga{
+	position: relative;
+	margin-left: 55%;
+	bottom: 482px;
+}
+.empat{
+	position: relative;
+	margin-left: 80%;
+	bottom: 725px;
+}
+.isi4{
+	position: relative;
+	background-color: #EBA04B;
+	padding: 5px;
+	width: 20%;
+	margin-left: 25%;
+	border-radius: 25px;
+}
+.isi4 h1{
+	text-align: center;
+	color: white;
+	font-size: 80px;
+}
+.isi4 h4{
+	width: 68%;
+	position: relative;
+	margin-left: 20%;
+	font-size: 18px;
+	color: white;
+	bottom: 30px;
+}
+.isi5 h1{
+	position: relative;
+	margin-left: 55%;
+	bottom: 340px;
+	font-size: 50px;
+	color: grey;
+}
+.tombol1{
+	position: relative;
+	color:white;
+}
+.tombol{
+	background-color: #EBA04B;
+	width: 12%;
+	padding: 15px;
+	position: relative;
+	margin-left: 59%;
+	bottom: 350px;
+	border-radius: 25px;
+	border:none;
+	font-size: 
+}
+.tombol1 button a{
+	text-decoration: none;
+	color: white;
+}
+.bawah{
+	padding:height:top:3%;
+	height: 400px;
+	background-color: #EFEFEF;
+}
+.bawah1{
+	position: relative;
+	margin-left: 10%;
+	top: 50px;
+}
+.bawah2{
+	position: relative;
+	margin-left: 35%;
+	bottom: 80px;
+}
+.medsos{
+	position: relative;
+	margin-left: 80%;
+	bottom: 200px;
+}
+.medsos img{
+	position: relative;
+	width: 7%;
+}
+.facebook h4{
+	position: relative;
+	margin-left: 10%;
+	bottom: 40px;
+}
+.ig h4{
+	position: relative;
+	margin-left: 10%;
+	bottom: 93px;
+}
+.twit h4{
+	position: relative;
+	margin-left: 10%;
+	bottom: 145px;
+}
+.facebook img{
+	position: relative;
+	margin-left: -5%;
+	bottom: -5px;
+}
+.ig img{
+	position: relative;
+	margin-left: -5%;
+	bottom: 50px;
+}
+.twit img{
+	position: relative;
+	margin-left: -5%;
+	bottom: 100px;
+}
+.garis{
+	background-color: white;
+	position: relative;
+	bottom: 300px;
+	width: 80%;
+	margin-left: 9%;
+}
+.paling{
+	position: relative;
+	bottom:  100%;
+}
+.l1 img{
+	position: relative;
+	width: 5%;
+	margin-left: 9%;
+	bottom: -100px;
+}
+.l2 img{
+	position: relative;
+	width: 10%;
+	margin-left: 11%;
+	bottom: -5px;
+}
+.t2 h4{
+	position: relative;
+	margin-left: 20%;
+	bottom: 120px;
+}

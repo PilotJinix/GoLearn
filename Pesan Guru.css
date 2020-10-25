@@ -1,0 +1,407 @@
+body{
+	background-color: #E9E9E9;
+}
+.Atas{
+	width: 100%; 
+	height: 10%;
+	background-color: white;
+	position: absolute;
+	right: 0.1%;
+	top: 0.1%;
+}
+.logo{
+	width: 4%;
+	position: absolute;
+}
+.logo1{
+	width: 6%;
+	position: absolute;
+	top: 18%;
+	right: 94.7%;
+}
+.Tombol{
+	width: 10%;
+	height: 6%;
+	position: absolute;
+	font-size: 100%;
+	border-radius: 16px;
+	/*font-size: 130%;*/
+	left: 77%;
+	background-color: white;
+	border-color: #E68619;
+	color: #E68619;
+}
+.Tombol1{
+	width: 10%;
+	height: 6%;
+	position: absolute;
+	font-size: 100%;
+	border-radius: 16px;
+	/*font-size: 130%;*/
+	left: 88%;
+	background-color: white;
+	border-color: #E68619;
+	color: #E68619;
+}
+.Tengah{
+	background-color: white;
+	position: absolute;
+	width: 100%;
+	height: 35%;
+	right: 0.1%;
+	top: 10.4%;
+}
+.Lima{
+	font-size: 130%;
+	left: 76%;
+	position: absolute;
+	top: 15%;
+}
+.Pesan{
+	height: 20%;
+	width: 10%;
+	border-radius: 16px;
+	position: absolute;
+	left: 76%;
+	top: 42%;
+	border: none;
+	background-color: #E68619;
+}
+
+.Gambar{
+	height: 60%;
+	width: 20%;
+	position: absolute;
+	top: 15%;
+	left: 15%;
+	border-radius: 7%;
+}
+
+.Anumerta{
+	position: absolute;
+	left: 37%;
+	font-size: 200%;
+	font-weight: bold;
+	top: 5%;
+}
+.Maps{
+	font-size: 11.5px;
+	color: #AFAFAF;
+	position: absolute;
+	left: 16%;
+	top: 50%;
+}
+.KS1{
+	background-color: white;
+	position: absolute;
+	height: 123px;
+	width: 280px;
+	border-radius: 10px;
+	left: 15%;
+	top: 53%;
+}
+.Box{
+	background-color: white;
+	position: absolute;
+	height: 30px;
+	width: 250px;
+	left: 5%;
+	top: 6%;
+}
+.Checklist{
+	position: absolute;
+	width: 80%;
+	height: 80%;
+	left: 55%;
+	bottom: 7%;
+}
+hr{
+	background-color: #707070;
+}
+.fast{
+	position: absolute;
+	width: 27%;
+	height: 27%;
+	left: 75%;
+	bottom: 18%;
+}
+.KS2{
+	color: ;
+	background-color: white;
+	position: absolute;
+	height: 398px;
+	width: 280px;
+	font-weight: bold;
+	top: 30%;
+	border-radius: 10px;
+	left: 15%;
+	top: 78%;
+}
+.Box1{
+	background-color: white;
+	position: absolute;
+	height: 30px;
+	width: 250px;
+	left: 5%;
+}
+.Privat{
+	width: 81px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.Dirumah{
+	width: 121px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.Cafe{
+	width: 83px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.Bing{
+	width: 125px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.Sing{
+	width: 125px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.SD{
+	width: 59px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.SMP{
+	width: 59px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.SMA{
+	width: 59px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+.MS1{
+	width: 107px;
+	height: 25px;
+	background-color:  #DCDCDC;
+	border-radius: 15px;
+	border: none;
+}
+
+.Kotak1{
+	background-color: white;
+	position: absolute;
+/*	margin-left: 30%;*/
+	height: 488px;
+	width: 622px;
+	left: 40%;
+	border-radius: 10px;
+	top: 53%;
+/*	bottom: 570px;*/
+}
+.Teks{
+	background-color: white;
+	position: absolute;
+	height: 380px;
+	width: 590px;
+	left: 2.5%;
+
+}
+.Partner{
+	font-size: 30px;
+	font-weight: bold;
+	color: #565656;
+}
+.Paragraf{
+	font-weight: bold;
+	font-size: 18px;
+	color: #565656;
+}
+.Paragraf1{
+	font-size: 18px;
+	color: #565656;
+}
+.Kotak2{
+	width: 622px; 
+	height: 342px;
+	background-color: white;
+	left: 35%;
+	top: 138%;
+	position: absolute;
+	border-radius: 10px;
+	left: 40%;
+/*	margin-top: 2%;
+	margin-left: 30%;
+	bottom: 570px;*/
+}
+.Teks1{
+	background-color: white;
+	position: absolute;
+	height: 250px;
+	width: 590px;
+	left: 2.5%;
+	top: 10%;
+}
+.Kotak3{
+	width: 622px; 
+	height: 198px;
+	background-color: white;
+	position: absolute;
+	left: 35%;
+	top: 198%;
+	border-radius: 10px;
+	left: 40%;
+/*	margin-top: 2%;
+	margin-left: 30%;
+	bottom: 570px; */    
+}
+.Teks2{
+	background-color: white;
+	position: absolute;
+	height: 150px;
+	width: 590px;
+	left: 2.5%;
+	top: 10%;
+}
+.DaftarGuru{
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 236%;
+	right: 0.1%;
+}
+.Daftar{
+	position: absolute;
+	font-size: 250%;
+	font-weight: bold;
+	left: 7%;
+	bottom: 84%;
+}
+
+.BahasaInggris{
+	background-color: #E68619;
+	font-size: 100%;
+	width: 10%;
+	border-radius: 5px;
+	position: absolute;
+	left: 7%;
+	top: 12%;
+	border: none;
+	color: white;
+}
+.Terdekat{
+	font-size: 100%;
+	border-radius: 5px;
+	position: absolute;
+	left: 18%;
+	top: 12%;
+	border: none;
+	color: white;
+}
+.Ekonomis{
+	font-size: 100%;
+	border-radius: 5px;
+	position: absolute;
+	left: 24.7%;
+	top: 12%;
+	border: none;
+	color: white;
+}
+.WaktuRespon{
+	font-size: 100%;
+	border-radius: 5px;
+	position: absolute;
+	left: 32%;
+	top: 12%;
+	border: none;
+	color: white;
+
+}
+.FotoGuru{
+	height: 150px;
+	width: 250px;
+	border-radius: 5%;
+	position: absolute;
+	left: 11.5%;
+	top: 4%;
+}
+.GratisModul{
+	height: 23px;
+	width: 230px;
+	border-radius: 10px;
+	font-size: 70%;
+	position: absolute;
+	top: 50%;
+	left: 13.5%;
+	border-color: #E68619;
+	background-color: white;
+	color: #E68619;
+}
+.NamaGuru{
+	font-size: 150%;
+	font-weight: bold;
+	left: 42%;
+	position: absolute;
+	top: 50%;
+	color: #575757;
+}
+.Halo{
+	width: 90%;
+	height: 15%;
+	text-align: center;
+	position: absolute;
+	top: 65%;
+	left: 5%;
+	color: #575757;
+}
+.KotakLatar{
+	background-color: white;
+	height: 60%;
+	width: 25%;
+	top: 25%;
+	position: absolute;
+	border: solid 1px;
+	border-radius: 10px;
+	left: 7%;
+}
+.KotakLatar1{
+	background-color: white;
+	height: 60%;
+	width: 25%;
+	top: 25%;
+	position: absolute;
+	border: solid 1px;
+	border-radius: 10px;
+	left: 37%;
+}
+.KotakLatar2{
+	background-color: white;
+	height: 60%;
+	width: 25%;
+	top: 25%;
+	position: absolute;
+	border: solid 1px;
+	border-radius: 10px;
+	left: 67%;
+}

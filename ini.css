@@ -1,0 +1,109 @@
+body{
+	background-image: url(1.png);
+	background-repeat: no-repeat;
+	width: 90%;
+	height: 10%;
+	min-height: 20px;
+	min-width: 100px;
+	background-size: cover;
+}
+.kotak1{
+	width: 29%;
+	padding: 15px;
+	border-radius: 9px;
+	box-sizing: border-box;
+	border:none;
+	font-size: 19px;
+	color:grey;
+	background-color: white;
+	font-family:serif;
+}
+.kotak2{
+	width: 29%;
+	padding: 15px;
+	border-radius: 9px;
+	box-sizing: border-box;
+	border:none;
+	margin-left: 1%;
+	font-size: 19px;
+	color:grey;
+	font-family:serif;
+}
+.kotak3{
+	width: 15%;
+	padding: 12px;
+	border-radius: 9px;
+	box-sizing: border-box;
+	border:none;
+	transform: translate(0,5px);
+	margin-left: 2%;
+	background-color:#E68619;
+	color:white;
+	font-size: 30px;
+	font-family:serif;	
+}
+.pencarian{
+	margin-top:5%;
+	margin-left: 5%;
+
+}
+.logo img{
+	width: 100px;
+}
+.tulislogo img{
+	width: 150px;
+	transform: translate(-20px,-90px);
+}
+.p1{
+	color:white;
+	font-size: 25px;
+	font font-family: cursive;
+	margin-left: 5%;
+}
+.kedua{
+	margin-top: -2%;
+}
+.satu{
+	color:white;
+}
+.dua{
+	color: white;
+	margin-top: -1%;
+}
+.k1{
+	margin-left: 5%;
+}
+.navigasi{
+	margin-left: 75%;
+	margin-top: -50%;
+}
+.masuk a{
+	text-decoration: none;
+	color:white;
+
+}
+.bantuan{
+	margin-left: 30%;
+	margin-top: -5.5%;
+	
+}
+.bantuan a{
+	color:white;
+	text-decoration: none;
+}
+.daftar{
+	width: 14%;
+	margin-left: 60%;
+	margin-top: -6%;
+	padding: 4px;
+	background-color: orange;
+	border-radius: 25px;
+}
+.daftar a{
+	color:white;
+	text-decoration: none;
+}
+.pencarian button a{
+	text-decoration: none;
+	color: white;
+}

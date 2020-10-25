@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $(".masuk").on({
+    mouseenter: function(){
+      $(this).css("background-color", "lightgray");
+    },  
+    mouseleave: function(){
+      $(this).css("background-color", "lightblue");
+    }, 
+    click: function(){
+      $(this).css("background-color", "yellow");
+    }  
+  });
+});
+$(document).ready(function(){
+  $(".bantuan").on({
+    mouseenter: function(){
+      $(this).css("background-color", "lightgray");
+    },  
+    mouseleave: function(){
+      $(this).css("background-color", "lightblue");
+    }, 
+    click: function(){
+      $(this).css("background-color", "yellow");
+    }  
+  });
+});
+</script>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="baruu.css">
+</head>
+
+<body>
+<div class="gambar">
+    <div class="logo">
+    <img src="2.png">
+    </div>
+    <div class="tulislogo">
+      <img src="Golearn.png">
+</div>
+<div class="masuk">
+<p onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Masuk</p></div>
+<div class="bantuan">
+  <a href="">Bantuan</a>
+</div>
+<div class="daftar">
+  <a href="tugastm.html"><button>Daftar</button></a>
+</div>
+
+<div class="p1">
+    <h1 class="pertama">Gather Knowledge</h1>
+    <h1 class="kedua">Without Leaving Home</h1>
+  </div>
+
+  <div class="k1">
+    <h4 class="satu">Undang guru ke rumah Anda dan dapatkan pembelajaran</h4>
+    <h4 class="dua">yang cepat dan menyenangkan.</h4>
+  </div>
+<div>
+  <form class="pencarian">
+    <input type="text" class="kotak1" placeholder="Bahasa">
+    <input type="text" class="kotak2" placeholder="Alamat">
+    <button class="kotak3" onclick="notifprofil()"><a href="home1.html">Cari</a></button>
+  </form>
+</div>
+
+<div id="id01" class="modal">
+  <form class="modal-content animate" action="home1.html">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+      
+    </div>
+    <div class="container">
+      <label><b>Username</b></label>
+      <input type="text" placeholder="Enter Username" name="uname" required><br><br>
+      <label><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" required><br>
+      <input type="checkbox" checked="checked"> Remember me<br>
+      <button type="submit" class="login1"><a href="home1.html"> Login</a></button> 
+    </div>
+    <div class="container" style="background-color:#f1f1f1">
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+      <span class="psw">Forgot <a href="#">password?</a></span>
+    </div>
+  </form>
+</div>
+<script>
+var modal = document.getElementById('id01');
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
+
+</body>
+</html>
